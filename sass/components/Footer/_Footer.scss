@@ -188,7 +188,6 @@ footer {
         justify-content: center;
         grid-template-columns: 2fr 1fr 1fr;
         gap: 7.5% 2.5%;
-        margin-bottom: 10vh;
     }
 
     .imdb-everywhere {
@@ -228,6 +227,10 @@ footer {
     .flickr-gallery {
         width: 100%;
         margin: 0 auto;
+        ul {
+            width: auto;
+            margin: 0 auto;
+        }
     }
 
     .something {
@@ -275,6 +278,21 @@ footer {
                 a {
                     display: none;
                 }
+            }
+        }
+    }
+
+    .I-am-fucking-tired {
+        p {
+            font-size: 10px;
+        }
+        img {
+            width: 60px;
+        }
+        a {
+            font-size: 10px;
+            p {
+                font-size: 10px;
             }
         }
     }
