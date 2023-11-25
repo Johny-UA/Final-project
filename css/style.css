@@ -1281,7 +1281,7 @@ footer {
   color: var(--option-news);
 }
 
-.I-am-tired {
+.I-tired {
   width: 98%;
   display: grid;
   margin: 0 1% 1% 1%;
@@ -1290,7 +1290,7 @@ footer {
       -ms-flex-align: center;
           align-items: center;
 }
-.I-am-tired p {
+.I-tired p {
   font-family: Actor;
   font-size: 15px;
   font-weight: 400;
@@ -1301,10 +1301,10 @@ footer {
       -ms-flex-align: center;
           align-items: center;
 }
-.I-am-tired p img {
+.I-tired p img {
   margin: 0 1%;
 }
-.I-am-tired a {
+.I-tired a {
   color: var(--option-news);
   font-family: ABeeZee;
   font-size: 15px;
@@ -1316,7 +1316,7 @@ footer {
       -ms-flex-pack: end;
           justify-content: flex-end;
 }
-.I-am-tired a p {
+.I-tired a p {
   font-family: ABeeZee;
   font-size: 15px;
   font-weight: bold;
@@ -1406,16 +1406,16 @@ footer {
   footer .ground-2 .I-am-fucking-tired a {
     display: none;
   }
-  .I-am-tired p {
+  .I-tired p {
     font-size: 10px;
   }
-  .I-am-tired img {
+  .I-tired img {
     width: 60px;
   }
-  .I-am-tired a {
+  .I-tired a {
     font-size: 10px;
   }
-  .I-am-tired a p {
+  .I-tired a p {
     font-size: 10px;
   }
 }
